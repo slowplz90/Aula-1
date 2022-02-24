@@ -1,0 +1,15 @@
+C:\Users\diogcarvalho\Documents\GitHub\Aula-1\exc6\Exc6\Exc6\obj\Debug\net6.0\Exc6.csproj.AssemblyReference.cache
+C:\Users\diogcarvalho\Documents\GitHub\Aula-1\exc6\Exc6\Exc6\obj\Debug\net6.0\Exc6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diogcarvalho\Documents\GitHub\Aula-1\exc6\Exc6\Exc6\obj\Debug\net6.0\Exc6.AssemblyInfoInputs.cache
+C:\Users\diogcarvalho\Documents\GitHub\Aula-1\exc6\Exc6\Exc6\obj\Debug\net6.0\Exc6.AssemblyInfo.cs
+C:\Users\diogcarvalho\Documents\GitHub\Aula-1\exc6\Exc6\Exc6\obj\Debug\net6.0\Exc6.csproj.CoreCompileInputs.cache
+C:\Users\diogcarvalho\Documents\GitHub\Aula-1\exc6\Exc6\Exc6\bin\Debug\net6.0\Exc6.exe
+C:\Users\diogcarvalho\Documents\GitHub\Aula-1\exc6\Exc6\Exc6\bin\Debug\net6.0\Exc6.deps.json
+C:\Users\diogcarvalho\Documents\GitHub\Aula-1\exc6\Exc6\Exc6\bin\Debug\net6.0\Exc6.runtimeconfig.json
+C:\Users\diogcarvalho\Documents\GitHub\Aula-1\exc6\Exc6\Exc6\bin\Debug\net6.0\Exc6.dll
+C:\Users\diogcarvalho\Documents\GitHub\Aula-1\exc6\Exc6\Exc6\bin\Debug\net6.0\Exc6.pdb
+C:\Users\diogcarvalho\Documents\GitHub\Aula-1\exc6\Exc6\Exc6\obj\Debug\net6.0\Exc6.dll
+C:\Users\diogcarvalho\Documents\GitHub\Aula-1\exc6\Exc6\Exc6\obj\Debug\net6.0\refint\Exc6.dll
+C:\Users\diogcarvalho\Documents\GitHub\Aula-1\exc6\Exc6\Exc6\obj\Debug\net6.0\Exc6.pdb
+C:\Users\diogcarvalho\Documents\GitHub\Aula-1\exc6\Exc6\Exc6\obj\Debug\net6.0\Exc6.genruntimeconfig.cache
+C:\Users\diogcarvalho\Documents\GitHub\Aula-1\exc6\Exc6\Exc6\obj\Debug\net6.0\ref\Exc6.dll
